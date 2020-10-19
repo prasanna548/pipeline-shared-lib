@@ -1,3 +1,4 @@
 printName(name)
 	prints out a person's name
 enterNumber(number)
+        print the entered number
